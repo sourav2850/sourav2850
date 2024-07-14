@@ -20,7 +20,7 @@ A highly skilled Full Stack Developer following core Agile Methodologies (Scrum)
 
 💬 Ask me about: Full Stack Development, Big Data Technologies, and AI
 
-📫 How to reach me: sourav2850@gmail.coms
+📫 How to reach me: sourav2850@gmail.com
 <!--🔗 Portfolio website: [Your Portfolio Website] -->
 
 
