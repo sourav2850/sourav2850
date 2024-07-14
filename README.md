@@ -22,3 +22,16 @@ A highly skilled Full Stack Developer following core Agile Methodologies (Scrum)
 
 📫 How to reach me: sourav2850@gmail.coms
 <!--🔗 Portfolio website: [Your Portfolio Website] -->
+
+Technologies/Tools
+Java JavaScript React Redux Nodejs Python
+
+HTML5 CSS3 Bootstrap
+
+MongoDB GraphQL MySQL
+
+TensorFlow Keras OpenCV RCNN
+
+Amazon AWS Google Cloud
+
+Git GitHub
