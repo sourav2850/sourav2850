@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Sourav 👋
 
 <!--
 **sourav2850/sourav2850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A highly skilled Full Stack Developer following core Agile Methodologies (Scrum) with a Master of Information Technology specialized in Cloud Analytics. Proficient in Software engineering, Big Data, and Artificial Intelligence. Over the years, I have honed my ability to code efficiently by analyzing time and space complexity.
+
+🔭 I’m constantly learning about new Tools and Technologies (Next on the list: NextJS, Golang, ScyllaDB, web3)
+💬 Ask me about: Full Stack Development, Big Data Technologies, and AI
+📫 How to reach me: sourav2850@gmail.coms
+<!--🔗 Portfolio website: [Your Portfolio Website] -->
