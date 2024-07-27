@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A highly skilled Full Stack Developer following core Agile Methodologies (Scrum) with a Master of Information Technology specialized in Cloud Analytics. Proficient in Software engineering, Big Data, and Artificial Intelligence. Over the years, I have honed my ability to code efficiently by analyzing time and space complexity.
+A highly skilled Full Stack Developer following core Agile Methodologies (Scrum) with a Master of Information Technology specialized in Cloud Analytics. Proficient in Software engineering, Big Data, and Artificial Intelligence. Over the years, I have honed my ability to code efficiently by analyzing time and space complexity. 
 
 🔭 I’m constantly learning about new Tools and Technologies (Next on the list: NextJS, Golang, ScyllaDB, web3)
 
